@@ -1,0 +1,19 @@
+{
+  "name": "leadathon",
+  "version": "1.0.0",
+  "description": "Backend app for lead school hackathon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "pretty": "^2.0.0"
+  }
+}
